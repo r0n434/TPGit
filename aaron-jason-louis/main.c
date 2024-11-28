@@ -3,8 +3,10 @@
 
 int addition(int a, int b)
 {
+	printf(";-)\r\n");
 	return a + b;
 }
+
 
 int main()
 {
