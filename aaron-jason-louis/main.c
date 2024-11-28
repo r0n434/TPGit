@@ -9,7 +9,7 @@ int addition(int a, int b)
 int main()
 {
 	
-	printf("Hello world\r\n");
+	printf("Hello INSA\r\n");
 	printf("Addition de 34 + 62 = %d\r\n",addition(a,b));
 
 }
